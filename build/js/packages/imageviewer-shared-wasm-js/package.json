@@ -1,0 +1,13 @@
+{
+  "name": "imageviewer-shared-wasm-js",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin/imageviewer-shared-wasm-js.mjs",
+  "devDependencies": {},
+  "dependencies": {
+    "@js-joda/core": "3.2.0",
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

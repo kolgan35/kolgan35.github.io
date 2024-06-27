@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=WASM
+compiler_version=1.9.22
+depends=imageviewer\:shared components.resources\:library org.jetbrains.compose.material\:material org.jetbrains.compose.material\:material-ripple org.jetbrains.compose.foundation\:foundation org.jetbrains.compose.animation\:animation org.jetbrains.compose.animation\:animation-core org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu org.jetbrains.compose.material\:material-icons-core org.jetbrains.compose.foundation\:foundation-layout org.jetbrains.compose.ui\:ui org.jetbrains.compose.runtime\:runtime-saveable kotlin org.jetbrains.compose.runtime\:runtime org.jetbrains.compose.ui\:ui-text org.jetbrains.compose.ui\:ui-graphics org.jetbrains.compose.ui\:ui-unit org.jetbrains.compose.ui\:ui-geometry org.jetbrains.compose.ui\:ui-util org.jetbrains.skiko\:skiko
+ir_signature_versions=1,2
+jsOutputName=imageviewer
+metadata_version=1.4.1
+serializedIrFileFingerprints=25wdemypp39vt.3nc8ap24lktl6 jnhfm6xv7e3h.3biu1wr3oug3d 2c061zluwcg91.1af6uocit5yy
+serializedKlibFingerprint=37bdw7pztoyvo.1508kd0466jin
+unique_name=imageviewer\:webApp

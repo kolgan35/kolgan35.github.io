@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+mipmap ic_imageviewer
+mipmap ic_imageviewer_background
+mipmap ic_imageviewer_foreground
+mipmap ic_imageviewer_round
+string app_name
+string back
+string first_image
+string last_image
+string load_image_unavailable
+string loading
+string no_internet
+string picture
+string pixels
+string refresh
+string refresh_unavailable
+string repo_empty
+string repo_invalid
+string size
